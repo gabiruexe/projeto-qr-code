@@ -9,3 +9,5 @@ Este projeto é um componente de QR Code desenvolvido como parte de um desafio d
 - **CSS**: Estilização da página, utilizando Flexbox para layout responsivo e customizações de estilo.
 - **Google Fonts**: Fonte "Outfit" para uma melhor apresentação do texto.
 
+## Preview:
+[<img src="https://github.com/gabiruexe/projeto-qr-code/blob/main/src/img/preview.png">](https://gabiruexe.github.io/projeto-qr-code/)
